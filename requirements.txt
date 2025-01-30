@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+databases
+pydantic
+aiofiles
+pdfplumber
+python-docx
+requests
+psycopg2-binary
+aiosqlite
